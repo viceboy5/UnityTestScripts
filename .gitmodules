@@ -1,0 +1,3 @@
+[submodule "TestScripts/Assets/Scripts/AnthonyLibrary"]
+	path = TestScripts/Assets/Scripts/AnthonyLibrary
+	url = https://github.com/viceboy5/ArtisanDream.Tools.git
